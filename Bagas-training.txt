@@ -7,3 +7,4 @@ Bagas-training
 - Belajar membuat game atau menjadi game developer
 - Belajar mengenai AI dan perkembangannya
 - Belajar Filsafat
+- Menguasai part of speech
