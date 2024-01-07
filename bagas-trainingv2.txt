@@ -1,3 +1,7 @@
 Latihan Bagas Saputra
 Belajar VCS GIT dan GITHUB
 Belajar membuat website
+Belajar Bootstrap
+Belajar React
+Belajar Laravel
+Belajar CSS
